@@ -4,8 +4,8 @@ import CreateRecipe from './components/CreateRecipe';
 import axios from 'axios';
 import './App.css';
 
-const SERVER = 'http://localhost:5000/recipes/';
-//const SERVER = 'https://nameless-temple-74743.herokuapp.com/recipes';
+//const SERVER = 'http://localhost:5000/recipes/';
+const SERVER = 'https://recipes-ncdm-server.herokuapp.com/recipes';
 
 class App extends Component {
     state = {
