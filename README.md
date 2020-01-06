@@ -1,6 +1,6 @@
-This is a simple web app that allow CRUD operations on food recipes.
-The demo is available at https://recipe-client-ncdm.herokuapp.com/
-This client app connect to this server that I also developed https://recipes-ncdm-server.herokuapp.com/recipes/
+This is a simple web app that allow CRUD operations on food recipes.<br>
+The demo is available at https://recipe-client-ncdm.herokuapp.com/<br>
+This client app connect to this server that I also developed https://recipes-ncdm-server.herokuapp.com/recipes/<br>
 
 ---
 
