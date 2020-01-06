@@ -5,7 +5,7 @@ import axios from 'axios';
 import './App.css';
 
 //const SERVER = 'http://localhost:5000/recipes/';
-const SERVER = 'https://recipes-ncdm-server.herokuapp.com/recipes';
+const SERVER = 'https://recipes-ncdm-server.herokuapp.com/recipes/';
 
 class App extends Component {
     state = {
